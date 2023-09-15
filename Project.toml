@@ -1,0 +1,9 @@
+name = "Technical"
+uuid = "a1f17aa8-9453-49b3-af43-3354866b6672"
+authors = ["Fernando Saldanha <fsaldanha@alum.mit.edu>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Utils = "2bd11c06-7b88-44ee-8b3c-32a08796e989"
