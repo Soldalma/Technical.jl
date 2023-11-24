@@ -16,6 +16,8 @@ using Utils
 Calculate upper and lower bands around average prices. Distances are
 multiples of recent standard deviation.
 
+Hello
+
 Return a dataframe with two columns named LowerBand and HigherBand and whose
 number of rows is equal to the length of `prices`. The first `n-1` rows
 will contain `NaN` values.
